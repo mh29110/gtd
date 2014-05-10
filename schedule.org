@@ -1,0 +1,6 @@
+* study for these things :
+**  mac & xcode
+**  c++ & cocos2d-x
+**  git version controll
+**  emacs for mac &  publish blog
+** 
