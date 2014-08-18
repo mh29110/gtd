@@ -1,0 +1,46 @@
+*********** tracking list
+* Compute graphics 
+** OpenGL  superbible
+** compute graphics by 163 course
+** OpenGL Practice in xcode ,making games . 
+* math for graphics
+** Linear algebra by MIT open course
+** Analytic Geometry
+* linux and mac  - unix 
+* game develops
+** DragonBones As3 & Cocos2d-x
+** MornUI .
+** protobuf
+** frameworks
+*** pureMVC
+*** robotlegs
+* cocos2d-x
+* program
+** CSAPP reading notes .
+** self improvement by programmer
+* Data structure and Algorithm 
+* network
+** TCP/IP
+** socket
+* wechat product develop
+* editor
+** emacs
+*** org-mode
+*** org2blog
+** vim 
+* git
+* c++
+** stl
+** boost
+** uqee server study 
+* python
+* sns
+** wordpress
+** csdn
+** twitter
+** stackOverflow
+** github
+* ultility tools
+** flash cc
+** vs2010
+** xcode
