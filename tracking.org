@@ -40,7 +40,15 @@
 ** twitter
 ** stackOverflow
 ** github
+** zest3D
 * ultility tools
 ** flash cc
 ** vs2010
 ** xcode
+
+* agal  zest3D
+
+* greensock reading
+
+* bitmap render framework
+ 
