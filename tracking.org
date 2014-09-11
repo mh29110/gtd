@@ -1,7 +1,21 @@
 *********** tracking list
+* agal  zest3D
+** A-flash\ http://ashan.org/post-309.html
+** zest open source code \github
+** opengl
+* lighthouse3d.com 
+** opengl 
+** glsl tutorial
+** glsl core tutorial
+* opengl 
+** youtube.com tutorial 23 lectures.
+* greensock reading
+* bitmap render framework
 * Compute graphics 
 ** OpenGL  superbible
-** compute graphics by 163 course
+** DONE compute graphics by 163 course
+CLOSED: [2014-08-12 Tue 13:40]
+- State "DONE"       from ""           [2014-09-04 Thu 13:40]
 ** OpenGL Practice in xcode ,making games . 
 * math for graphics
 ** Linear algebra by MIT open course
@@ -16,8 +30,12 @@
 *** robotlegs
 * cocos2d-x
 * program
-** CSAPP reading notes .
-** self improvement by programmer
+** DONE CSAPP reading notes .
+CLOSED: [2014-07-31 Thu 13:41]
+- State "DONE"       from ""           [2014-09-04 Thu 13:41]
+** DONE self improvement by programmer
+CLOSED: [2014-07-05 Sat 13:41]
+- State "DONE"       from ""           [2014-09-04 Thu 13:41]
 * Data structure and Algorithm 
 * network
 ** TCP/IP
@@ -46,9 +64,4 @@
 ** vs2010
 ** xcode
 
-* agal  zest3D
-
-* greensock reading
-
-* bitmap render framework
  
