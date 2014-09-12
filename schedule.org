@@ -1,6 +1,42 @@
-* study for these things :
-**  mac & xcode
-**  c++ & cocos2d-x
-**  git version controll
-**  emacs for mac &  publish blog
-** 
+* summary
+** first line --  AS3
+*** C++  
+*** Opengl 
++ blog by zilongshanren http://4gamers.cn/blog/categories/opengl-es/
++ youtube.com tutorial 23 lectures on mac
+*** GLSL 
++ lighthouse3d tutorial / core tutorial
+*** cocos2d-x 
+** second line -- cpp
+*** As3  
+*** AGAL  
+*** Zest3d
+*** phantomlib
+**** uilib
+**** assets
+**** loadmanager
+**** network
+**** render
+** third line -- python
+** fourth line -- utility
+*** editors
+**** vim
+**** emacs
+*** ide
+**** xcode
+**** fb
+**** vs
+**** eclipse
+*** version control
+**** git
+
+
+
+--------------------------------------
+* brief
+** study for these things :
+***  mac & xcode
+***  c++ & cocos2d-x
+***  git version controll
+***  emacs for mac &  publish blog
+*** 
